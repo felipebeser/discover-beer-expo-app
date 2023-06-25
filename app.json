@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "random-api-beer",
+    "slug": "random-api-beer"
+  }
+}

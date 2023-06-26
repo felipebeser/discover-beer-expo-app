@@ -1,11 +1,15 @@
-# Expo Router Example
+# Discover beers
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+React native app in Typescript using Expo Router routing and navigators, Axios to make requests to the Random Beer Api, SQLite to store history of beers, implementing a service layer, global styling, custom components, custom font, and much more.
 
 ## 🚀 How to use
 
 ```sh
-npx create-expo-app -e with-router
+npm install
+```
+
+```sh
+npm expo start
 ```
 
 ## 📝 Notes

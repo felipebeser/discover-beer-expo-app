@@ -5,6 +5,14 @@ React native app in Typescript using Expo Router routing and navigators, Axios t
 ## 🚀 How to use
 
 ```sh
+git clone https://github.com/felipebeser/discover-beer-expo-app.git
+```
+
+```sh
+cd discover-beer-expo-app
+```
+
+```sh
 npm install
 ```
 
